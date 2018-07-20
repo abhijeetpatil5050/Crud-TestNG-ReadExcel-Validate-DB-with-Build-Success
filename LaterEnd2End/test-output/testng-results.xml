@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2641" started-at="2018-07-20T06:32:48Z" finished-at="2018-07-20T06:32:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2641" started-at="2018-07-20T06:32:48Z" finished-at="2018-07-20T06:32:51Z">
+      <class name="com.abp.util.PerfomAuthenticationTest">
+        <test-method status="PASS" signature="perfomLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.abp.util.PerfomAuthenticationTest@3a82f6ef]" name="perfomLogin" duration-ms="2031" started-at="2018-07-20T12:02:49Z" data-provider="getTestData" finished-at="2018-07-20T12:02:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abhijeet]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abhi@1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Success]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- perfomLogin -->
+        <test-method status="PASS" signature="perfomLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.abp.util.PerfomAuthenticationTest@3a82f6ef]" name="perfomLogin" duration-ms="15" started-at="2018-07-20T12:02:51Z" data-provider="getTestData" finished-at="2018-07-20T12:02:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abhijeet]]>
+              </value>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Password cannot be Empty]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- perfomLogin -->
+        <test-method status="PASS" signature="perfomLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.abp.util.PerfomAuthenticationTest@3a82f6ef]" name="perfomLogin" duration-ms="0" started-at="2018-07-20T12:02:51Z" data-provider="getTestData" finished-at="2018-07-20T12:02:51Z">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abhi@1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[UserName cannot be Empty]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- perfomLogin -->
+        <test-method status="PASS" signature="perfomLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.abp.util.PerfomAuthenticationTest@3a82f6ef]" name="perfomLogin" duration-ms="0" started-at="2018-07-20T12:02:51Z" data-provider="getTestData" finished-at="2018-07-20T12:02:51Z">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid Credentials]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- perfomLogin -->
+        <test-method status="PASS" signature="perfomLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.abp.util.PerfomAuthenticationTest@3a82f6ef]" name="perfomLogin" duration-ms="0" started-at="2018-07-20T12:02:51Z" data-provider="getTestData" finished-at="2018-07-20T12:02:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[aiahd]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[askijd]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid Credentials]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- perfomLogin -->
+        <test-method status="PASS" signature="perfomLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.abp.util.PerfomAuthenticationTest@3a82f6ef]" name="perfomLogin" duration-ms="15" started-at="2018-07-20T12:02:51Z" data-provider="getTestData" finished-at="2018-07-20T12:02:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abhijeet]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abhi@1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Success]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- perfomLogin -->
+      </class> <!-- com.abp.util.PerfomAuthenticationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
